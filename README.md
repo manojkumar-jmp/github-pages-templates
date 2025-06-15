@@ -5,7 +5,7 @@ This project is a simple static website generator using [Jinja2](https://pallets
 ## Features
 
 - Templated HTML pages with Jinja2
-- Bootstrap 4 styling
+- Bootstrap 5.3.3 styling
 - Modular header and footer includes
 - Easy to extend with new pages
 
@@ -21,7 +21,6 @@ This project is a simple static website generator using [Jinja2](https://pallets
    ```sh
    python -m venv myenv
    .\myenv\Scripts\activate  # On Windows
-   # or
    source myenv/bin/activate      # On macOS/Linux
    ```
 
