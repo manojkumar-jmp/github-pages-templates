@@ -1,6 +1,6 @@
 # Static Website Generator
 
-This project is a simple static website generator using [Jinja2](https://palletsprojects.com/p/jinja/) templating and Bootstrap 4 for styling.
+This project is a simple static website generator using [Jinja2](https://palletsprojects.com/p/jinja/) templating and Bootstrap 5.3.3 for styling.
 
 ## Features
 
