@@ -20,7 +20,7 @@ This project is a simple static website generator using [Jinja2](https://pallets
 2. **Set up a virtual environment (optional but recommended):**
    ```sh
    python -m venv myenv
-   source myenv/Scripts/activate  # On Windows
+   .\myenv\Scripts\activate  # On Windows
    # or
    source myenv/bin/activate      # On macOS/Linux
    ```
