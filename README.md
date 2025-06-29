@@ -46,6 +46,4 @@ Sample Static Website generated using this repo is live [here](https://manojkuma
 - Add your content in the `{% block body %}` section.
 - Rebuild the site with `staticjinja build`.
 
-## License
-
-This project is licensed under the MIT License.
+##### This is a personal project. All views expressed here are mine and are not affiliated with, nor endorsed by, my current or past employers. All sample code is for educational use only.
