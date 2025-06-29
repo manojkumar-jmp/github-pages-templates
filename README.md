@@ -25,6 +25,9 @@ Sample Static Website generated using this repo is live [here](https://manojkuma
    .\myenv\Scripts\activate  # On Windows
    source myenv/bin/activate      # On macOS/Linux
    ```
+  ** On Windows**
+  
+   ![image](https://github.com/user-attachments/assets/d4f8269a-6af4-4887-81a0-92e9cd6fd18d)
 
 3. **Install dependencies:**
    ```sh
