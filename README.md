@@ -2,6 +2,8 @@
 
 This project is a simple static website generator using [Jinja2](https://palletsprojects.com/p/jinja/) templating and Bootstrap 5.3.3 for styling.
 
+Sample Static Website generated using this repo ie live [here](https://manojkumar-jmp.github.io/github-pages-templates/). 
+
 ## Features
 
 - Templated HTML pages with Jinja2
